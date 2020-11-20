@@ -322,7 +322,7 @@ App.Data.Food["milkdew melon"] = {
         You crack the melon open and eat the contents. It tastes delicious and thick white juice dribbles down your chin.\
         ",
     "Type": "food",
-    "Charges": 1,
+    "Charges": 100,
     "Effects" : [ 
         "UNWHOLESOME_MEAL",
         "NUTRITION_COMMON", 
@@ -345,7 +345,7 @@ App.Data.Food["peaches and cream"] = {
         the creamy texture, the cloying aroma... all together they overwhelm your senses and bring a flush to your body.\
         ",
     "Type": "food",
-    "Charges": 1,
+    "Charges": 100,
     "Effects" : [ 
         "NUTRITION_RARE", 
         "NUTRITION_XP_RARE", 
@@ -366,7 +366,7 @@ App.Data.Food["honey mead"] = {
         The mead has a delicious taste that tingles your tongue and lips.\
         ",
     "Type": "food",
-    "Charges": 1,
+    "Charges": 10,
     "Effects" : [ 
         "UNWHOLESOME_MEAL",
         "NUTRITION_COMMON", 
@@ -386,7 +386,7 @@ App.Data.Food["butter gourd"] = {
         butter or pure fat.\
         ",
     "Type": "food",
-    "Charges": 1,
+    "Charges": 100,
     "Effects" : [ 
         "UNWHOLESOME_MEAL",
         "NUTRITION_COMMON", 
@@ -407,7 +407,7 @@ App.Data.Food["butter gourd pie"] = {
         You bite into the pie, suppressing an involuntary moan as the delicious filling slides across your tongue.\
         ",
     "Type": "food",
-    "Charges": 1,
+    "Charges": 100,
     "Effects" : [ 
         "UNWHOLESOME_MEAL",
         "NUTRITION_RARE", 
@@ -430,7 +430,7 @@ App.Data.Food["jojo nut pie"] = {
         of the Jojo nut crust.\
         ",
     "Type": "food",
-    "Charges": 1,
+    "Charges": 10,
     "Effects" : [ 
         "UNWHOLESOME_MEAL",
         "NUTRITION_RARE", 

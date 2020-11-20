@@ -4,7 +4,7 @@ App.Data.Drugs["nereid philtre"] = {
     "LongDesc": "This light blue potion has faint specks of silver swirling in it. It smells faintly of the sea.",
     "Message": "You quaff the philter. For a moment you feel the bite of the sea... and then tranquility so sublime you lose yourself to it.",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 100,
     "Effects": [ "NEREID_PHILTRE" ]
 };
 
@@ -14,7 +14,7 @@ App.Data.Drugs["succubus philtre"] = {
     "LongDesc": "This deep purple potion pulses with an otherworldly light. It smells of roses and brimstone.",
     "Message": "You quaff the philter. Almost instantly a deep feeling of arousal surfaces and your mind is filled with perverted thoughts.",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 100,
     "Effects": [ "SUCCUBUS_PHILTRE" ]
 };
 
@@ -24,7 +24,7 @@ App.Data.Drugs["female mandrake"] = {
     "LongDesc": "This pink root looks like a voluptuous woman and smells like perfume. It is extremely rare and is said to have lifechanging consequences upon consumption.",
     "Message": "You chew the root thoroughly and gulp it down. It fills your mouth with an earthy unpleasant feeling.",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 100,
     "Effects": [ "FEMALE_MANDRAKE" ]
 };
 
@@ -34,7 +34,7 @@ App.Data.Drugs["male mandrake"] = {
     "LongDesc": "This brown root looks like a strong man and smells like salt. It is extremely rare and is said to have lifechanging consequences upon consumption.",
     "Message": "You chew the root thoroughly and gulp it down. It fills your mouth with an earthy unpleasant feeling.",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 100,
     "Effects": [ "MALE_MANDRAKE" ]
     };
 
@@ -126,7 +126,7 @@ App.Data.Drugs["siren elixir"] = {
     "LongDesc": "You can see the pulsing pink liquid bubbling inside the small glass bottle. It glows faintly in the dark.",
     "Message": "You drink the elixir in one gulp and sense a feeling of peace flow through you. It has a faint, bittersweet taste.",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 100,
     "Effects" : [ "SIREN_ELIXIR" ]
 };
 
@@ -146,7 +146,7 @@ App.Data.Drugs["face cream"] = {
     "LongDesc": "This brown, buttery face cream is popular for it's anti-aging and moisturising properties.",
     "Message": "You rub the lightly tan cream into your face. It has an earthy, almost nutty scent. Your face feels refreshed.",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 10,
     "Effects" : [ "FACE_XP_COMMON", "FEMALE_HORMONE_XP_COMMON", "TOXICITY_COMMON"]
 };
 
@@ -226,7 +226,7 @@ App.Data.Drugs["brow filler"] = {
     "LongDesc": "This chemical treatment comes in a strange tube. It's a liquid-like gel that is tingly to the touch.",
     "Message": "You carefully rub the chemicals into your eyebrows and wait... Something happened, right?",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 10,
     "Effects" : [ "BROW_THICKER", "TOXICITY_COMMON"]
 };
 
@@ -236,6 +236,6 @@ App.Data.Drugs["brow thinner"] = {
     "LongDesc": "This chemical treatment comes in a strange tube. It's a liquid-like gel that is tingly to the touch.",
     "Message": "You carefully rub the chemicals into your eyebrows and wait... Something happened, right?",
     "Type": "potion",
-    "Charges": 1,
+    "Charges": 10,
     "Effects" : [ "BROW_THINNER", "TOXICITY_COMMON"]
 };
